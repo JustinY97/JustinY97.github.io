@@ -15,8 +15,9 @@ body {
 #navbar li{
     list-style: none;
     display: inline;
+    float: right;
 }
 
-#navbar_menu {
-    float: inline-end;
+#navbar-menu {
+    float: right;
 }
