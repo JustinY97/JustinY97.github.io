@@ -16,3 +16,7 @@ body {
     list-style: none;
     display: inline;
 }
+
+#navbar_menu {
+    float: inline-end;
+}
