@@ -4,6 +4,7 @@ body {
 }
 #navbar {
     background-color: gray;
+    padding: 5px;
 }
 
 #navbar a{
